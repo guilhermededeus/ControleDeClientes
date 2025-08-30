@@ -1,0 +1,11 @@
+# Ignorar pastas de build
+bin/
+obj/
+.vs/
+
+# Arquivos temporários
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
